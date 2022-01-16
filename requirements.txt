@@ -45,6 +45,7 @@ pyparsing==2.4.7
 PyPDF2==1.26.0
 pyperclip==1.8.1
 PySimpleValidate==0.2.12
+python==3.8.5
 python-dateutil==1.5
 python-docx==0.8.10
 pytz==2020.1
